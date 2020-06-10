@@ -16,5 +16,3 @@ gdzie
 B – indukcja magnetyczna w kierunku propagacji światła (w teslach)
 d – długość na jakiej światło oddziałuje z polem magnetycznym (w metrach)
 V – stała Verdeta - wyznaczana empirycznie zależna od długości fali, gęstości materiału i temperatury.
-
-Zjawisko Faradaya znalazło zastosowanie w technice laserowej w postaci urządzenia o nazwie rotator Faradaya, który jest wykorzystywany przy modulacji światła, np. w tzw. migawkach magnetooptycznych i urządzeniach przepuszczających światło tylko w jednym kierunku (tzw. izolatory optyczne). Cechą charakterystyczną rotatora Faradaya jest, że płaszczyzna polaryzacji zawsze jest skręcana w tę samą stronę, niezależnie od kierunku przepływającego światła (asymetria), co znajduje zastosowanie przy budowie cyrkulatorów i izolatorów optycznych.
